@@ -1,0 +1,9 @@
+structure,n,avg_time_ns,accesses,theoretical
+DynamicArray,100,330060.0,10000,O(1)
+LinkedList,100,896420.0,10000,O(n)
+DynamicArray,1000,184160.0,10000,O(1)
+LinkedList,1000,3025200.0,10000,O(n)
+DynamicArray,10000,106900.0,10000,O(1)
+LinkedList,10000,3.05312E7,10000,O(n)
+DynamicArray,100000,76280.0,10000,O(1)
+LinkedList,100000,3.0750208E8,10000,O(n)

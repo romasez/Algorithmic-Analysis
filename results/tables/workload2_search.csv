@@ -1,0 +1,9 @@
+structure,n,avg_time_ns,comparisons,theoretical
+DynamicArray,100,477580.0,73592,O(n)
+LinkedList,100,445600.0,73592,O(n)
+DynamicArray,1000,1031880.0,742593,O(n)
+LinkedList,1000,1402840.0,742593,O(n)
+DynamicArray,10000,3677340.0,7599563,O(n)
+LinkedList,10000,1.075036E7,7599563,O(n)
+DynamicArray,100000,3.921294E7,76330683,O(n)
+LinkedList,100000,1.1288234E8,76330683,O(n)
